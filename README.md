@@ -1,6 +1,9 @@
 # CS231-Vehicle-Image-Classification
 
 # 📂 Dataset
+
+Link: https://drive.google.com/drive/folders/16uj-Gz9Rv3C0UMOuXRgRRiH27O7LC9HA?usp=sharing
+
 Chúng tôi thu thập dữ liệu xe bốn bánh trên đường phố Việt Nam, sau đó dùng mô hình YOLO đã được huấn luyện sẵn để tách vật thể tự động và gán nhãn vật thể vào một trong năm loại:
 
 + SUV - Crossover - MPV: Xe gầm cao hoặc minivan, công suất chở người tối đa 16 chỗ.
